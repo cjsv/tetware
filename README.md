@@ -1,4 +1,0 @@
-tetware
-=======
-
-opengroup tetware
